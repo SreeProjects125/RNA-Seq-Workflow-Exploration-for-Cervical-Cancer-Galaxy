@@ -1,0 +1,1 @@
+[{"encoded_id": "1c3746082d20beba", "file_type": "gtf", "hda": "bdb11cef953663b0f512cba7848b27d0", "model_class": "ImplicitlyConvertedDatasetAssociation", "parent_hda": "bdb11cef953663b02d127eb005761b47"}]
